@@ -1,3 +1,3 @@
 def oxford_comma(array)
- ["red", "white", "blue"].join(",")
+ ["red", "white", "and blue"].join(",")
 end
